@@ -66,15 +66,19 @@
     margin-left: 100px;
     gap: 200px;
 }
-.sektion6
-{
 
-}
 .sektion6flexbox
 {
-    background-color: red;
+    background-color: rgb(255, 255, 255);
     box-shadow: 0px 0px 10px 0px;
     border-radius: $mayborder;
     width: 350px;
-    height: 100px;
+    height: 120px;
+}
+.sektion6flex
+{
+    display: flex;
+    margin-left: 250px;
+    gap: 50px;
+    margin-top: 50px;
 }
